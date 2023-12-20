@@ -185,6 +185,10 @@ li{
 }
 .few{
     font-weight: bold;
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    width: 200px;
+    text-align: center;
 }
 .closer{
     font-size: 30px;
@@ -199,7 +203,7 @@ li{
 .col{
     float: left;
     padding: 200px;
-    width: 33.33%;
+    width: 30%;
     display: flex;
     justify-content: space-evenly;
     position: relative;
@@ -213,7 +217,7 @@ li{
 .build{
     display: flex;
     position: relative;
-    margin-left: 40px;
+    margin-left: 20px;
     width: 600px;
     height: 100px;
     padding: 10px;
