@@ -452,7 +452,7 @@ td{
     display: flex;
     justify-content: space-between;
 }
-#saf{
+.lux{
     color: chocolate;
     font-weight: bold;
 }
